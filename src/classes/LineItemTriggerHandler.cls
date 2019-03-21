@@ -56,7 +56,7 @@ public with sharing class LineItemTriggerHandler {
 	}
 
 	/* Inner classes
-	========================= */
+	======================= */
 	
 	// Sortable wrapper for product categories
 	@TestVisible
