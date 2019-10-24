@@ -24,10 +24,8 @@ public with sharing class LineItemTriggerHandler {
 
 		update orders;
 		
-		String email = 'john.doe@acme.com';
-		// Send my email
-
-		
+		String email = 'john.great@acme.com';
+		// Send my email method		
 	}
 	
 	/* Utility methods (not exposed)
